@@ -1,4 +1,4 @@
 join_us
 =======
 
-give me your ider~
+give me your idea~
