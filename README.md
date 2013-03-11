@@ -12,7 +12,7 @@ TELL US
 
 - `Who you are`
 - `what you want to do`
-- `What you are interesting`
+- `What you are interesting in`
 
 ---
  
