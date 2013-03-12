@@ -10,9 +10,9 @@ TELL US
 --
     
 
-- `Who you are`
-- `what you want to do`
-- `What you are interested in`
+- `Who you are` -你是谁
+- `What you want to do` -你想做什么项目
+- `What you are interested in` -你对什么技术领域感兴趣
 
 ---
  
