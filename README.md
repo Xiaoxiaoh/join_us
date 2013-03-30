@@ -20,8 +20,7 @@ Detail:
 --
 [http://site.douban.com/196781/widget/notes/12161495/note/266017028/](http://site.douban.com/196781/widget/notes/12161495/note/266017028/)
 
-kiyoto: 
-I'm a git beginner and interested in Distributed System,Big Data and Cloud Computing.
+kiyoto: I'm a git beginner and interested in Distributed System,Big Data and Cloud Computing.
 
 1. I want to implement a local file search engine（LFSE）that can simply and quickly search the file in local file system of the desktop.  
 
